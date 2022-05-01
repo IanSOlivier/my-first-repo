@@ -1,31 +1,16 @@
-# This is a large heading
+# Ian Olivier
 
-## This is a smaller heading
+## About me
 
-And as **imagination** bodies forth,
-The forms of things *unknown*, the poet’s pen,
-Turns them to shapes and gives to airy nothing,
-A local *habitation* and a **name**.
+I recently graduated from medical school at the University of Cape Town (UCT), in South Africa
 
-- This is
-- an unordered
-- list
+I am currently working on my Masters of Medical Science in Neuroscience (Psychiatry).
+My thesis involves analysing the relationship between impulsivity and compulsivity and resting-state connectivity in various psychiatric disorders
 
-1. This is
-2. an ordered
-3. list
+I was born and largely grew up in Tuebingen, Germany and then East London, South Africa
 
-Here is `some code` in the middle of a sentence.
-
-```
-This is
-a block
-of code
-```
-
-Here is how you make [a link](https://www.wikipedia.org/).
-
-![This is an image.](https://github.com/yihui/xaringan/releases/download/v0.0.2/karl-moustache.jpg)
+## Contact
+Reache me via email at iansimonolivier@gmail.com
 
 nano README.md
 
