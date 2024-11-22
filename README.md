@@ -10,7 +10,7 @@ My thesis involves analysing the relationship between impulsivity and compulsivi
 I was born and largely grew up in Tuebingen, Germany and then East London, South Africa
 
 ## Contact
-Reache me via email at iansimonolivier@gmail.com
+Reach me via email at iansimonolivier@gmail.com
 
 nano README.md
 
